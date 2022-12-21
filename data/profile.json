@@ -1,0 +1,74 @@
+{
+  "name": "Willian Monteiro",
+  "photo": "https://avatars.githubusercontent.com/u/97125503?v=4",
+  "job": "Desenvolvedor Front-end",
+  "location": "Guarulhos-SP",
+  "phone": "(11) 9828-35788",
+  "email": "wgcsantos710@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "html",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "css",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "react",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Portfólio",
+      "url": "https://github.com/WillSantosss/Portfolio",
+      "github": true
+    },
+    {
+      "name": "DragonBall-Challenge",
+      "url": "https://github.com/WillSantosss/DragonBall-Challenge",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Front-end na Skills",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e ajudar a construir tantas inovações de mercado."
+    },
+
+    {
+      "name": "Desenvolvedor Front-end na Skills",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e ajudar a construir tantas inovações de mercado."
+    },
+
+    {
+      "name": "Desenvolvedor Front-end na Skills",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e ajudar a construir tantas inovações de mercado."
+    }
+  ]
+}
