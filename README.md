@@ -14,6 +14,6 @@ Já pensou naquela tão sonhada vaga, mas infelizmente tem muito pouco tempo par
 
 ### Outras tecnologias utilizadas
 
-* API de voz do Chrome
+* API implementada com Json
 
 ![PortAPI](https://github.com/WillSantosss/Imgs/blob/master/PortAPI.JPG)
